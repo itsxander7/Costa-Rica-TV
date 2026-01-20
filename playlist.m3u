@@ -1,0 +1,182 @@
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_CR1.xml.gz?raw=true"
+#EXTINF:-1 tvg-id="Locomotion" tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="AZTV" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1, Caricaturas
+https://bit.ly/30OO5Pb
+#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
+https://edge-live13-sl.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
+http://45.235.37.254:8600/play/a0az
+#EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
+http://45.235.37.254:8600/play/a08v
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/disney-xd.jpg", Disney XD
+http://45.235.37.254:8600/play/a0b0
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-kids.jpg", Discovery Kids
+http://45.235.37.254:8600/play/a0a8
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/NICK.png", Nick
+http://45.235.37.254:8600/play/a09o
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/nick-jr.jpg", Nick Jr
+http://45.235.37.254:8600/play/a08j
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/natgeo-kids.jpg", Natgeo Kids
+http://45.235.37.254:8600/play/a0aa
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tooncast.jpg", Tooncast
+http://45.235.37.254:8600/play/a069
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel (test)
+https://bit.ly/3xq9bze
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg", Animal Planet
+http://45.235.37.254:8600/play/a0ab
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-channel.jpg", Discovery Channel
+http://45.235.37.254:8600/play/a0ac
+#EXTINF:-1   tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/discoveryid.png", ID
+http://45.235.37.254:8600/play/a08y
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tlc.jpg", TLC
+http://45.235.37.254:8600/play/a0bt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
+http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
+http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Cana6.png", Canal 6
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
+https://bit.ly/3yo4dmY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal9.png", Canal 9
+http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal10.com.ni/wp-content/uploads/2020/10/logo_mini.png", Canal 10
+http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2011.png", Canal 11
+http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal%2012.png", Canal 12
+http://138.117.4.70:8075/Canal12_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png", Canal 13
+https://bit.ly/33gkAX9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2015.png", Canal 15
+http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
+#EXTINF:-1, Mega Box
+en espera
+#EXTINF:-1, Enlace NIC
+http://138.117.4.70:8075/Canal21_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png", Canal 23
+http://138.117.4.70:8075/Canal23_CooTel/playlist.m3u8
+#EXTINF:-1, JBN Canal 39
+https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
+#EXTINF:-1, TV ONE nic
+https://bit.ly/3s0hReU
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
+http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
+#EXTVLCOPT:http-referrer=https://bradmax.com/
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
+https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
+#EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
+https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46yL5MO8kzj-B4rWKgg0Oziacjn4zgRcQ1hRL4haAR3I)/dm/3/x83sd3v/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
+https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
+https://d35xpyc30huab3.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
+https://d30230c1j3h08x.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
+https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOKjs9uznq4S-1u22t7VXMffeLMnbrB7GmI2dK_v3ri)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
+https://bit.ly/36EcnOh
+//#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
+//https://bit.ly/3jx96ED
+//#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
+//https://bit.ly/3sM69mz
+//#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
+//https://bit.ly/3odiMa2
+//#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
+//https://bit.ly/2WuDq9S
+//#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr", ESPN 2
+//https://bit.ly/3ytFKv7
+//#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.(Cono.Norte).(FSA)..cr", FOX SPORTS
+//https://bit.ly/3Bdz8CJ
+//#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2)..cr", FOX SPORTS 2
+//https://bit.ly/3mAgHUQ
+//#EXTINF:-1, WIN+ Sports
+//https://bit.ly/3zk3nr4
+//#EXTINF:-1, La Liga
+//https://bit.ly/3nqRdcJ
+#EXTINF:-1, Dreiko TV
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1, CRTV Y Radio
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
+#EXTINF:-1, Alajuelita TV
+https://cp.sradiotv.com:1936/8076/8076/chunklist_w779116498.m3u8
+#EXTINF:-1, RBM Deportes
+https://stmv.streamingvip.click/television/television/playlist.m3u8
+#EXTINF:-1, Nosara TV
+http://rtmp02.portalexpress.es/nosaratv/nosaratv/playlist.m3u8
+#EXTINF:-1, Multizonas TV
+https://stmv1.srvif.com/multizonastv/multizonastv/playlist.m3u8
+#EXTINF:-1, San Jose TV
+https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
+#EXTINF:-1, Telefides
+http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
+#EXTINF:-1, SMO TV
+http://186.15.50.30:8080/hls/smotv.m3u8
+#EXTINF:-1 tvg-id="Anexión.TV.(ANEX)..cr", Anexion TV
+https://rtmp.info/anexiontv/envivo/chunklist_w759656506.m3u8
+#EXTINF:-1, 36 Limon
+https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1453814195.m3u8
+#EXTINF:-1, Colosal TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1023493580.m3u8
+#EXTINF:-1, TV UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w685058481.m3u8
+#EXTINF:-1, Telesur
+http://k3.usastreams.com/telesur/telesur/chunklist_w929248362.m3u8
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+#EXTINF:-1, Supreme Master TV
+https://cf-lbs.suprememastertv.com/origin/720p/playlist.m3u8
+#EXTINF:-1, Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w969400546.m3u8
+#EXTINF:-1, San Vito TV
+http://stmv1.srvif.com/sanvito/sanvito/chunklist_w547020798.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png", TVsur
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1867933475.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV
+http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV (1080p)
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-01/tvretro-palmares-costa-rica.png?itok=Niiw9ZPB", TV Retro Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1, Tvsur canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr", VM Latino
+http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, Antena 6
+http://inliveserver.com:1935/14510/14510/chunklist_w1469377991.m3u8
+#EXTINF:-1, Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w1674958038.m3u8
+#EXTINF:-1, Mega Fuzion
+http://k4.usastreams.com/megafusion/megafusion/playlist.m3u8
+#EXTINF:-1, ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1, RadioTV Chirripo
+http://tertuliasconcafe.com:1935/tvdc/envivo_720p/playlist.m3u8
+#EXTINF:-1, TV Tica
+http://tiquiciatv.com:1935/tvtica/web/playlist.m3u8
+#EXTINF:-1, STV
+http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
+#EXTINF:-1, TV Curre
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+#EXTINF:-1, Los santos tv
+http://tiquiciatv.com:1935/lstv/web/playlist.m3u8
+#EXTINF:-1, TVN Canal 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1, IQ TV
+http://rtmp.info:8081/iqtv/envivo/playlist.m3u8
